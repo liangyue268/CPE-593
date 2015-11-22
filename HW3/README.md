@@ -8,18 +8,18 @@ Each case has three lines:
 * Third line: the number being searched for
 
 Here is sample input:
->Cases: 3
-10
-1 3 6 10 15 20 21 22 25 26
-4
-20
-1 3 6 10 15 20 21 22 25 26 27 28 30 31 32 40 41 45 50 51
-60
-20
-1 3 6 10 15 20 21 22 25 26 27 28 30 31 32 40 41 45 50 51
-27
+>Cases: 3  
+10  
+1 3 6 10 15 20 21 22 25 26  
+>4  
+20  
+1 3 6 10 15 20 21 22 25 26 27 28 30 31 32 40 41 45 50 51  
+60  
+20  
+1 3 6 10 15 20 21 22 25 26 27 28 30 31 32 40 41 45 50 51  
+27  
 
 The output should be:
-NOT FOUND 4
-NOT FOUND 5
-27 1
+NOT FOUND 4  
+NOT FOUND 5  
+27 1  
