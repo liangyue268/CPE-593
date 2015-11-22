@@ -15,4 +15,4 @@ Note: Strassen.java is used for strassens’s algorithm and MultiplicationTest.j
 |256*256| 43ms| 45ms|
 |512*512| 306ms| 253ms|
 |1024*1024| 8911ms| 2013ms|
-|2048*2048| 101681ms| 61493|
+|2048*2048| 101681ms| 61493ms|
